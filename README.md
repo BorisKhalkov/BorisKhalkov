@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Boris
-********
+---
 <p align='center' dir='center'>
   Front-end Developer from Russia.
   I'm currently learning JS, Vue, React.
