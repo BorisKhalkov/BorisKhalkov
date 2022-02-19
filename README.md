@@ -6,3 +6,10 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=boriskhalkov&layout=compact">
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=boriskhalkov&layout=compact"/></a>
 </p>
+
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/boriskhalkov/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=boriskhalkov">
+   </a>
+</div>
