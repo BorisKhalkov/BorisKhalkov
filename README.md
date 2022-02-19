@@ -1,11 +1,11 @@
-### Hi there 👋 I'm Boris
+# Hi there 👋 I'm Boris
 ---
-<p align='center' dir='center'>
+<p align='center'>
   Front-end Developer from Russia.
   I'm currently learning JS, Vue, React.
 </p>
 
-<p align='center' dir='top'>
+<p align='center' aligrnItems='center'>
   <a href="mailto:boris.khalkov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> – boris.khalkov@gmail.com</a>
 </p>
