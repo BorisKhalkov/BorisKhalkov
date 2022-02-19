@@ -3,9 +3,7 @@
   Front-end Developer from Russia. <br>
   I'm currently learning JS, Vue, React 
 </p>
-
-
-
+###
 <div align='center'>
   <a href="mailto:boris.khalkov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
