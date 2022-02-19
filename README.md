@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Boris
+<h1 align='center'> Hi there 👋 I'm Boris </h1>
 <p align='center'>
   Front-end Developer from Russia.
   I'm currently learning JS, Vue, React.
