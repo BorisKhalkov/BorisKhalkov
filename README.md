@@ -4,7 +4,7 @@
   I'm currently learning JS, Vue, React.
 </p>
 
-<p align='center' style='margin: 40px 0'>
+<p align='center' style="margin: 40px 0">
   <a href="mailto:boris.khalkov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> – boris.khalkov@gmail.com</a>
 </p>
@@ -17,8 +17,8 @@
 </p>
 
 
-<div align='center' style='margin: 40px 0'>
+<div align='center' style="margin: 40px 0">
    <a href="https://github.com/boriskhalkov/github-profile-views-counter">
-       <img width=175px src="https://komarev.com/ghpvc/?username=boriskhalkov">
+       <img width=275px src="https://komarev.com/ghpvc/?username=boriskhalkov">
    </a>
 </div>
