@@ -1,8 +1,12 @@
 ### Hi there 👋
+<p align="center" dir="auto">
+  Front-end Developer from Russia.
+  I'm currently learning JS, Vue, React.
+</p>
 
 <p align='center'>
   <a href="mailto:boris.khalkov@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>boris.khalkov@gmail.com</a>
 </p>
 
 <p align='center'>
