@@ -4,10 +4,10 @@
   I'm currently learning JS, Vue, React 
 </p>
 
-<p align='center' style="margin: 40px 0; line-height: 40px">
+<div align='center' style="margin: 40px 0; line-height: 40px">
   <a href="mailto:boris.khalkov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> – boris.khalkov@gmail.com</a>
-</p>
+</div>
 
 <p align='center'>
   <a href="https://github-readme-stats.vercel.app/api?username=boriskhalkov&show_icons=true">
