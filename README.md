@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/broisKhalkov/profile?style=for-the-badge">
+
 <!--
 **BorisKhalkov/BorisKhalkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
