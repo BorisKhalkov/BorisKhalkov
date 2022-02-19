@@ -4,7 +4,7 @@
   I'm currently learning JS, Vue, React 
 </p>
 
-<div align='center' margin-top="40px">
+<div align='center' margin-bottom="40px">
   <a href="mailto:boris.khalkov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
