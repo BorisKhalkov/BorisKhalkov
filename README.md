@@ -1,4 +1,4 @@
-<h1 align='center'> Hello World 👋 I'm Boris </h1>
+<h1 align='center'> Hello World 👋 my name is Boris </h1>
 <p align='center'>
   Front-end Developer from Russia. <br>
   I'm currently learning JS, Vue, React 
