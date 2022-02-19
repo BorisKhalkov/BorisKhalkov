@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
 <p align='center'>
   <a href="https://github-readme-stats.vercel.app/api?username=boriskhalkov&hide=contribs&show_icons=true">
     <img height=150 src="https://github-readme-stats.vercel.app/api?username=boriskhalkov&hide=contribs&show_icons=true"/></a>
